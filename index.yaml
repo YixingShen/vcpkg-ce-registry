@@ -7,6 +7,7 @@ indexes:
     keys:
       xpack-dev-tools/xPack-windows-build-tools: [ 0 ]
       xpack/xPack-windows-build-tools: [ 0 ]
+      dev-tools/xPack-windows-build-tools: [ 0 ]
     words:
       xpack: [ 0 ]
       xPack-windows-build-tools: [ 0 ]

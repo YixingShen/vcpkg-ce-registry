@@ -1,5 +1,5 @@
 {
-    "id": "xpack-dev-tools/xPack-windows-build-tools",
+    "id": "tools/xpack-dev-tools/xPack-windows-build-tools",
     "version": "4.4.1-2",
     "summary": "xPack Windows Build Tools",
     "demands": {

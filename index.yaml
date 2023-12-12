@@ -5,12 +5,15 @@ items:
 indexes:
   IdentityKey/id:
     keys:
-      tools/xpack-dev-tools/xPack-windows-build-tools: [ 0 ]
+      xpack-dev-tools/xPack-windows-build-tools: [ 0 ]
     words:
       tools: [ 0 ]
+      xpack-dev-tools: [ 0 ]
+      xPack-windows-build-tools: [ 0 ]
       tools/xpack-dev-tools: [ 0 ]
       tools/xpack-dev-tools/xPack-windows-build-tools: [ 0 ]
-      xPack-windows-build-tools: [ 0 ]
+      xpack-dev-tools/xPack-windows-build-tools: [ 0 ]
+      xpack/xPack-windows-build-tools: [ 0 ]
   SemverKey/version:
     keys:
       4.4.1-2: [ 0 ]

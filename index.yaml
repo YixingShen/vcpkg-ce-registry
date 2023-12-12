@@ -1,29 +1,21 @@
 items:
   [
-    build-tools/build-tools-1.0.0.json
+    tools/xpack-dev-tools/xPack-windows-build-tools-4.4.1-2.json
   ]
 indexes:
   IdentityKey/id:
     keys:
-      tools/himax/build-tools: [ 0 ]
+      tools/xpack-dev-tools/xPack-windows-build-tools: [ 0 ]
     words:
-      arm:
-        [
-          0
-        ]
-      himax/build-tools: [ 0 ]
-      tools:
-        [
-          0
-        ]
-      tools/himax: [ 0 ]
-      tools/himax/build-tools: [ 0]
-      build-tools: [ 0 ]
+      tools: [ 0 ]
+      tools/xpack-dev-tools: [ 0 ]
+      tools/xpack-dev-tools/xPack-windows-build-tools: [ 0 ]
+      xPack-windows-build-tools: [ 0 ]
   SemverKey/version:
     keys:
-      1.0.0: [ 0 ]
+      4.4.1-2: [ 0 ]
   StringKey/summary:
     keys:
-      build-tools: [ 0 ]
+      xPack Windows Build Tools: [ 0 ]
     words:
-      himax: [ 0 ]
+      Tools: [ 0 ]

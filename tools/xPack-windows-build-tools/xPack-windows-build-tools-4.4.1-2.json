@@ -1,0 +1,18 @@
+{
+    "id": "tools/xpack-dev-tools/xPack-windows-build-tools",
+    "version": "4.4.1-2",
+    "summary": "xPack Windows Build Tools",
+    "demands": {
+        "windows and x64": {
+            "install": {
+                "unzip": "https://github.com/xpack-dev-tools/windows-build-tools-xpack/releases/download/v4.4.1-2/xpack-windows-build-tools-4.4.1-2-win32-x64.zip",
+                "sha256": "04a637e3d93254eaf321decdb816d28e38c8bad4256ab988c615abf89820cc4d"
+            },
+			"exports": {
+				"paths": {
+					"PATH": "bin"
+				}
+			}
+        }
+    }
+}
